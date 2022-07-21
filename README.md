@@ -1,4 +1,4 @@
-# lottery_app
+# Selection UI In Flutter
 
 A new Flutter project.
 
