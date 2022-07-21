@@ -1,6 +1,7 @@
 # Selection UI In Flutter
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/96855608/180229785-780e3a76-8a4b-4322-8e52-ced3947c4d75.png)
+
 
 ## Getting Started
 
